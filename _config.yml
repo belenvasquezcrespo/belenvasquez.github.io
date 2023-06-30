@@ -1,5 +1,5 @@
 title: Maria Belen Vasquez
 logo: /assets/logo.png
 #description: text below image
-#how_downloads: 
+show_downloads: false
 theme: jekyll-theme-minimal
