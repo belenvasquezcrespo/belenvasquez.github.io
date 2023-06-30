@@ -24,4 +24,4 @@ layout: default
 - Optimized resource allocation and upheld institutional performance indicators during the COVID crisis by leveraging GIS analysis and spatial data mining techniques to effectively select urban plans for evaluation based on considerations such as land use, infrastructure, transport networks, and risk areas.
 - Implemented evaluation methodologies for municipal land use plans in Ecuador, leveraging legal expertise, transparency, and analytical skills. Produced evaluation reports that identified vulnerabilities in urban plans, contributing to improved governance processes and fostering sustainable development practices.
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.md).
