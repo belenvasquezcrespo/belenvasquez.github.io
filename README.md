@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Spatial Planner & GIS analyst
 
 #### Technical Skills: GIS, SQL, R, AutoCAD, Adobe Illustrator
