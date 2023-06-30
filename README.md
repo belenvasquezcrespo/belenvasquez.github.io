@@ -3,6 +3,7 @@
 #### Technical Skills: GIS, SQL, R, AutoCAD, Adobe Illustrator
 #### Language Skills: English C1, German B1, Portuguese B1, Spanish Native
 
+
 ## Education						       		
 - Joint M.S., Urban and Regional Planning	| University of Dortmund & University of the Philippines (_July 2023_)
 - B.S., Architecture | University of Cuenca (_July 2018_)
@@ -31,7 +32,9 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 #### Origin and Destination Analysis: [Network with R](./another-page.md)
 
-#### Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS](./another-page.md) and [Groupping Analysis with ArcGIS](./another-page.md)
+#### Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS](./another-page.md)
+
+#### Spatial Data Mining Techniques: [Groupping Analysis with ArcGIS](./another-page.md)
 
 ### Tactical Urbanism: Recover Riverfronts in Ecuador
 
@@ -41,7 +44,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Empowering Capacity: Paving the Way for Institutionalized Planning - Municipalities Seminar, June 2021
 - Urban Analysis and the importance of Data Collection, SEDATU & SOT Seminar, 2021
 - Monitoring and Evaluation of Urban Plans in Ecuador - Economic Commission for Latin America and the Caribbean , July 2019
-- Urban Planning in Indigenous Settlements - National Symposium of Urban Development, October 2018 [Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://dialnet.unirioja.es/servlet/articulo?codigo=8427146)) [Poster](/assets/speaker/poster.jpg) 
-
+- Urban Planning in Indigenous Settlements - National Symposium of Urban Development, October 2018 [Publication] (https://dialnet.unirioja.es/servlet/articulo?codigo=8427146) and [Poster](/assets/speaker/poster.jpg) 
 
 
