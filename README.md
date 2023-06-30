@@ -1,8 +1,7 @@
 # Spatial Planner & GIS analyst
 
-#### Technical Skills: GIS, SQL, R, AutoCAD, Adobe Illustrator
-#### Language Skills: English C1, German B1, Portuguese B1, Spanish Native
-
+##### Technical Skills: GIS, SQL, R, AutoCAD, Adobe Illustrator
+##### Language Skills: English C1, German B1, Portuguese B1, Spanish Native
 
 ## Education						       		
 - Joint M.S., Urban and Regional Planning	| University of Dortmund & University of the Philippines (_July 2023_)
@@ -26,24 +25,33 @@
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-#### Data exploration: [Data cleaning, retrieving, and analysis](./another-page.md)
+- Data exploration: [Data cleaning, retrieving, and analysis with SQL](./another-page.md)
 
-#### Statistical Analysis: [Inferential analysis with R](./another-page.md)
+- Statistical Analysis: [Inferential analysis with R Studio](./another-page.md)
 
-#### Origin and Destination Analysis: [Network with R](./another-page.md)
+- Origin and Destination Analysis: [Network with R Studio](./another-page.md)
 
-#### Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS](./another-page.md)
+- Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./another-page.md)
 
-#### Spatial Data Mining Techniques: [Groupping Analysis with ArcGIS](./another-page.md)
+- Spatial Data Mining Techniques: [Groupping Analysis with ArcGIS Desktop](./another-page.md)
 
 ### Tactical Urbanism: Recover Riverfronts in Ecuador
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
+### Urban Projects: Design and Visualization
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate.
+
+[Transportation Terminal](https://www.youtube.com/watch?v=waSRryyCm6E)
+[Nursery and Care facility](https://www.youtube.com/watch?v=UzyFb7JG38Q)
+
 ## Speaker
 - Empowering Capacity: Paving the Way for Institutionalized Planning - Municipalities Seminar, June 2021
 - Urban Analysis and the importance of Data Collection, SEDATU & SOT Seminar, 2021
 - Monitoring and Evaluation of Urban Plans in Ecuador - Economic Commission for Latin America and the Caribbean , July 2019
-- Urban Planning in Indigenous Settlements - National Symposium of Urban Development, October 2018 [Publication] (https://dialnet.unirioja.es/servlet/articulo?codigo=8427146) and [Poster](/assets/speaker/poster.jpg) 
+- Urban Planning in Indigenous Settlements - National Symposium of Urban Development, October 2018 [Poster](/assets/speaker/poster.jpg) and [Publication](https://dialnet.unirioja.es/servlet/articulo?codigo=8427146)
+
+
 
 
