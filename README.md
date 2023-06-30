@@ -38,7 +38,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- Urban Planning in Indigenous Settlements - National Symposium of Urban Development, October 2018 [Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://dialnet.unirioja.es/servlet/articulo?codigo=8427146)) [Poster](/assets/speaker) 
+- Urban Planning in Indigenous Settlements - National Symposium of Urban Development, October 2018 [Publication](https://dialnet.unirioja.es/servlet/articulo?codigo=8427146) - [Poster](/assets/speaker) 
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
