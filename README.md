@@ -1,5 +1,3 @@
-# belenvasquez.github.io
-
 # Urban Analyst
 
 ### Education
