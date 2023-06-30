@@ -43,8 +43,11 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate.
 
-[Transportation Terminal](https://www.youtube.com/watch?v=waSRryyCm6E)
-[Nursery and Care facility](https://www.youtube.com/watch?v=UzyFb7JG38Q)
+[Transportation Terminal:](https://www.youtube.com/watch?v=waSRryyCm6E)
+Models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate.
+
+[Nursery and Care facility:](https://www.youtube.com/watch?v=UzyFb7JG38Q)
+Models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate.
 
 ## Speaker
 - Empowering Capacity: Paving the Way for Institutionalized Planning - Municipalities Seminar, June 2021
