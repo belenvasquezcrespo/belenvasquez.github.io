@@ -25,15 +25,15 @@
 
 This study investigates the significance of care activities for transportation planning and public policy in Guiuan, Philippines. By focusing on the mobility of care, the research aims to understand the impact of care-related travel patterns and sociodemographic and gender concerns on transportation planning. The study takes a proactive approach to comprehend the dynamics of Guiuan's transportation system, ensuring inclusivity and unbiased decision-making processes. Through enhanced data gathering tools and spatial analysis techniques, decision-makers gain valuable insights into spatial variations, individual characteristics of travelers, and challenges within the area. 
 
-- Data exploration: [Data cleaning, retrieving, and analysis with SQL](./data-exploration.md)
+- Data exploration: [Data cleaning, retrieving, and analysis with SQL](./data-exploration.html)
 
-- Statistical Analysis: [Inferential analysis with R Studio](./tests-variables.md)
+- Statistical Analysis: [Inferential analysis with R Studio](./tests-variables.html)
 
 - Origin and Destination Analysis: [Chord Diagram with R Studio](./origin-destination.html) 
 
-- Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./moran-analysis.md)
+- Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./moran-analysis.html)
 
-- Spatial Data Mining Techniques: [Grouping Analysis with ArcGIS Desktop](./grouping-analysis.md)
+- Spatial Data Mining Techniques: [Grouping Analysis with ArcGIS Desktop](./grouping-analysis.html)
 
 ### Tactical Urbanism: Recover Riverfronts in Ecuador
 
