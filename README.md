@@ -29,11 +29,13 @@ This study investigates the significance of care activities for transportation p
 
 - Statistical Analysis: [Inferential analysis with R Studio](./tests-variables.md)
 
-- Origin and Destination Analysis: [Chord Diagram with R Studio](./origin-destination.md)
+- Origin and Destination Analysis: [Chord Diagram with R Studio](./origin-destination.html) 
 
 - Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./moran-analysis.md)
 
 - Spatial Data Mining Techniques: [Grouping Analysis with ArcGIS Desktop](./grouping-analysis.md)
+
+- [Link to another page](./another-page.html).
 
 ### Tactical Urbanism: Recover Riverfronts in Ecuador
 
