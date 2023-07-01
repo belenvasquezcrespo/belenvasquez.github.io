@@ -27,9 +27,9 @@ This study investigates the significance of care activities for transportation p
 
 - Data exploration: [Data cleaning, retrieving, and analysis with SQL](./data-exploration.html)
 
+- Origin and Destination Analysis: [Chord Diagram with R Studio](./origin-destination.html)
+  
 - Statistical Analysis: [Inferential analysis with R Studio](./tests-variables.html)
-
-- Origin and Destination Analysis: [Chord Diagram with R Studio](./origin-destination.html) 
 
 - Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./moran-analysis.html)
 
@@ -43,7 +43,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 The projects focus on enhancing public participation and improving urban design to meet the needs of the population. The first project is a transportation terminal that aims to create a seamless integration of various modes of transportation and provide a convenient and efficient hub for commuters. The second project is a Nursery and Care facility designed to cater to the needs of families and children, promoting a nurturing and inclusive environment. Both projects emphasize the importance of city integration and thoughtful planning in creating sustainable and functional spaces. The designs are visually presented through 3D modeling and visualization techniques, showcasing the proposed facilities in a realistic and immersive manner. These projects serve as a testament to my skills in architectural design, urban planning, and creating engaging visual representations of architectural concepts.
 
-Transportation Terminal in Zaruma, Ecuador [Video:](https://www.youtube.com/watch?v=waSRryyCm6E)
+Transportation Terminal in Zaruma, Ecuador [Video](https://www.youtube.com/watch?v=waSRryyCm6E)
 
 Nursery and Care facility in Cuenca, Ecuador [Video](https://www.youtube.com/watch?v=UzyFb7JG38Q) 
 
