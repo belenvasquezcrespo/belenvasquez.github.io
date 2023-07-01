@@ -35,8 +35,6 @@ This study investigates the significance of care activities for transportation p
 
 - Spatial Data Mining Techniques: [Grouping Analysis with ArcGIS Desktop](./grouping-analysis.md)
 
-- [Link to another page](./another-page.html).
-
 ### Tactical Urbanism: Recover Riverfronts in Ecuador
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
