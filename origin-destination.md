@@ -1,4 +1,5 @@
 # Origin and Destination of Care Trips
+[back](./README.md)
 
 The analysis of the origin and destination of care trips provided valuable insights into travel patterns within Guiuan, Philippine. The study examined the relationships between different regions, including the Urban and Rural Mainland, Calicoan Island, Tuababao Island, Manicani Island, Suluan Island, and Homonhon Island. The findings revealed interesting dynamics, with the Urban Mainland region emerging as a prominent source and recipient of care trips. This region displayed a high volume of care trips, attributed to factors such as population density, infrastructure, facilities, and economic activity. It also highlighted the significance of transportation hubs and markets as major attractors of care trips.
 
@@ -115,3 +116,5 @@ circos.clear()
 ```
 
 Overall, the origin and destination analysis shed light on the spatial dynamics of care-related travel in Guiuan, highlighting the importance of the Urban Mainland region, the challenges faced by island communities, and the complex patterns of travel within and between barangays.
+
+[back](./README.md)
