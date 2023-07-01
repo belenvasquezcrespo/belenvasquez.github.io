@@ -8,7 +8,7 @@ On the other hand, the islands under Guiuan's jurisdiction, such as Tuababao, Ma
 ## Origin-destination of care by region
 ![Branching](/assets/projects-img/origin-destination-region.png)
 
-### Chord Diagram with R Studio - Region
+#### Code R
 ```r
 # Load the circlize package
 library(circlize)
@@ -51,7 +51,7 @@ Interestingly, the study identified a shift in the perception of the urban area 
 ## Origin-destination of care by barangay (neighborhood)
 ![Branching](/assets/projects-img/origin-destination-barangay.png)
 
-### Chord Diagram with R Studio - Barangay (neighborhood)
+#### Code R
 ```r
 
 # Load the circlize package
