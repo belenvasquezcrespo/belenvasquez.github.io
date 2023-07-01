@@ -23,17 +23,17 @@
 ## Projects
 ### Exploring Mobility of Care: Granular and Spatial Analysis in the Philippines
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+This study investigates the significance of care activities for transportation planning and public policy in Guiuan, Philippines. By focusing on the mobility of care, the research aims to understand the impact of care-related travel patterns and sociodemographic and gender concerns on transportation planning. The study takes a proactive approach to comprehend the dynamics of Guiuan's transportation system, ensuring inclusivity and unbiased decision-making processes. Through enhanced data gathering tools and spatial analysis techniques, decision-makers gain valuable insights into spatial variations, individual characteristics of travelers, and challenges within the area. 
 
-- Data exploration: [Data cleaning, retrieving, and analysis with SQL](./another-page.md)
+- Data exploration: [Data cleaning, retrieving, and analysis with SQL](./data-exploration.md)
 
-- Statistical Analysis: [Inferential analysis with R Studio](./another-page.md)
+- Statistical Analysis: [Inferential analysis with R Studio](./tests-variables.md)
 
-- Origin and Destination Analysis: [Network with R Studio](./another-page.md)
+- Origin and Destination Analysis: [Chord Diagram with R Studio](./origin-destination.md)
 
-- Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./another-page.md)
+- Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./moran-analysis.md)
 
-- Spatial Data Mining Techniques: [Groupping Analysis with ArcGIS Desktop](./another-page.md)
+- Spatial Data Mining Techniques: [Grouping Analysis with ArcGIS Desktop](./grouping-analysis.md)
 
 ### Tactical Urbanism: Recover Riverfronts in Ecuador
 
@@ -41,13 +41,11 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ### Urban Projects: Design and Visualization
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate.
+The projects focus on enhancing public participation and improving urban design to meet the needs of the population. The first project is a transportation terminal that aims to create a seamless integration of various modes of transportation and provide a convenient and efficient hub for commuters. The second project is a Nursery and Care facility designed to cater to the needs of families and children, promoting a nurturing and inclusive environment. Both projects emphasize the importance of city integration and thoughtful planning in creating sustainable and functional spaces. The designs are visually presented through 3D modeling and visualization techniques, showcasing the proposed facilities in a realistic and immersive manner. These projects serve as a testament to my skills in architectural design, urban planning, and creating engaging visual representations of architectural concepts.
 
-[Transportation Terminal:](https://www.youtube.com/watch?v=waSRryyCm6E)
-Models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate.
+Transportation Terminal in Zaruma, Ecuador [Video:](https://www.youtube.com/watch?v=waSRryyCm6E)
 
-[Nursery and Care facility:](https://www.youtube.com/watch?v=UzyFb7JG38Q)
-Models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate.
+Nursery and Care facility in Cuenca, Ecuador [Video](https://www.youtube.com/watch?v=UzyFb7JG38Q) 
 
 ## Speaker
 - Empowering Capacity: Paving the Way for Institutionalized Planning - Municipalities Seminar, June 2021
