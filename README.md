@@ -1,6 +1,6 @@
 # Spatial Planner & GIS analyst
 
-##### Technical Skills: GIS, SQL, R, AutoCAD, Adobe Illustrator
+##### Technical Skills: GIS, SQL, R, CAD, Adobe Illustrator
 ##### Language Skills: English C1, German B1, Portuguese B1, Spanish Native
 
 ## Education						       		
