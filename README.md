@@ -14,11 +14,13 @@
 
 **Director of Urban Planning, Use and Land Management @ Superintendence of Territorial Planning (_April 2021 - Sept 2021_)**
 - Led online workshops with all 221 Municipalities of Ecuador to enhance their capacity in land use planning. Strengthened connections between mayors and evaluators, promoting the enforcement of laws and institutionalizing urban planning practices nationwide.
-- Developed and launched IPSOT's data platform, enhancing access to critical urban analysis information (risk areas, urban growth, protected areas)
+- Developed annual strategic actions, aligned with legal requirements of territorial planning, to drive the institution's mission, vision, and objectives.
+- Collaborated closely with the IT department, providing clear guidelines and comprehensive requirements, to successfully develop and launch the IPSOT platform. The platform's objective was to gather and consolidate geographic and documentary information, facilitating efficient evaluation for critical urban analysis purposes (risk areas, urban growth, protected areas, land use).
 
 **Urban Analyst @ Superintendence of Territorial Planning (_August 2018 - March 2021_)**
 - Optimized resource allocation and upheld institutional performance indicators during the COVID crisis by leveraging GIS analysis and spatial data mining techniques to effectively select urban plans for evaluation based on considerations such as land use, infrastructure, transport networks, and risk areas.
-- Implemented evaluation methodologies for municipal land use plans in Ecuador, leveraging legal expertise, transparency, and analytical skills. Produced evaluation reports that identified vulnerabilities in urban plans, contributing to improved governance processes and fostering sustainable development practices.
+- Implemented evaluation methodologies for municipal land use plans in Ecuador, leveraging legal expertise, transparency, and analytical skills.
+- Produced evaluation reports that identified vulnerabilities in urban plans, contributing to improved governance processes and fostering sustainable development practices.
 
 ## Projects
 ### Exploring Mobility of Care: Granular and Spatial Analysis in the Philippines
