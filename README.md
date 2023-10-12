@@ -44,7 +44,8 @@ The city and the river have always shared an intrinsic connection. Riverfronts, 
 
 By assessing connectivity and comfort indicators, this study evaluates the urban mobility, local development, and environmental sustainability of the Tomebamba River's riverfronts in Cuenca, Ecuador. Furthermore, it contemplates the impact of tactical urbanism interventions in enhancing riverfronts as public spaces along the Tomebamba River.
 
-How to assess Riverfronts?: [Case study and indicators](./indicators-riverfronts.html)
+- How to assess Riverfronts?: [Case study and indicators](./indicators-riverfronts.html)
+- Results: [Visualizing challenges and conclusions: Urban mobility; Local development; Environmental care](./results-riverfronts.html)
 
 ### Urban Projects: Design and Visualization
 
