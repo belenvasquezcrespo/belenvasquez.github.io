@@ -40,8 +40,11 @@ This study investigates the significance of care activities for transportation p
 
 ### Tactical Urbanism: Recover and improvement Riverfronts as public spaces in Ecuador
 
-The city and river always belonged to each other. Riverfronts, in particular, are unique and irreplaceable zones where land and water are deeply connected, and are endowed with unique spatial, social and ecological characteristics. Unfortunately, riverfronts have gone through serious degradation processes caused by diverse factors such as real estate pressure or lack of planning, and most of the rehabilitations of river sections in cities has often been inappropriate, inefficient, delayed or incomplete. The study intended to bridge the gap where a development project is still waiting for funds or where regulations are so strong that a major redesign could be difficult or impossible; and the riverfront is questioned between its potential to serve as a quality public space today and the distant future.
-Through connectivity and comfort indicators the study evaluates urban mobility, local development and environmental care of the Tomebamba’s riverfronts in Cuenca, Ecuador; and reflects on the contributions of tactical urbanism interventions to improve riverfronts as public spaces on the Tomebamba river.
+The city and the river have always shared an intrinsic connection. Riverfronts, in particular, represent unique and irreplaceable areas where land and water intertwine, bearing distinctive spatial, social, and ecological attributes. Sadly, riverfronts have suffered significant degradation due to a variety of factors, including real estate pressures and inadequate planning. In many instances, efforts to rehabilitate city river sections have been inappropriate, inefficient, delayed, or incomplete. This study aims to bridge the gap in situations where development projects are awaiting funding or stringent regulations make major redesigns challenging or nearly impossible. It also questions the riverfront's potential to serve as a high-quality public space in both the present and the distant future.
+
+By assessing connectivity and comfort indicators, this study evaluates the urban mobility, local development, and environmental sustainability of the Tomebamba River's riverfronts in Cuenca, Ecuador. Furthermore, it contemplates the impact of tactical urbanism interventions in enhancing riverfronts as public spaces along the Tomebamba River.
+
+How to assess Riverfronts?: [Case study and indicators](./indicators-riverfronts.html)
 
 ### Urban Projects: Design and Visualization
 
