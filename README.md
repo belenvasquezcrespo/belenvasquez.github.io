@@ -5,6 +5,7 @@
 
 ## Education						       		
 - Joint M.S., Urban and Regional Planning	| University of Dortmund & University of the Philippines (_July 2023_)
+- Geographic Information Systems (GIS) Specialization | UC Davis (_January 2023_)
 - B.S., Architecture | University of Cuenca (_July 2018_)
 
 ## Work Experience
@@ -33,13 +34,14 @@ This study investigates the significance of care activities for transportation p
   
 - Statistical Analysis: [Inferential analysis with R Studio](./tests-variables.html)
 
-- Spatial Data Mining Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./moran-analysis.html)
+- Spatial Analysis Techniques: [Global Moran I and Local Moran I with ArcGIS Desktop](./moran-analysis.html)
 
-- Spatial Data Mining Techniques: [Grouping Analysis with ArcGIS Desktop](./grouping-analysis.html)
+- Spatial Analysis Techniques: [Grouping Analysis with ArcGIS Desktop](./grouping-analysis.html)
 
-### Tactical Urbanism: Recover Riverfronts in Ecuador
+### Tactical Urbanism: Recover and improvement Riverfronts as public spaces in Ecuador
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+The city and river always belonged to each other. Riverfronts, in particular, are unique and irreplaceable zones where land and water are deeply connected, and are endowed with unique spatial, social and ecological characteristics. Unfortunately, riverfronts have gone through serious degradation processes caused by diverse factors such as real estate pressure or lack of planning, and most of the rehabilitations of river sections in cities has often been inappropriate, inefficient, delayed or incomplete. The study intended to bridge the gap where a development project is still waiting for funds or where regulations are so strong that a major redesign could be difficult or impossible; and the riverfront is questioned between its potential to serve as a quality public space today and the distant future.
+Through connectivity and comfort indicators the study evaluates urban mobility, local development and environmental care of the Tomebamba’s riverfronts in Cuenca, Ecuador; and reflects on the contributions of tactical urbanism interventions to improve riverfronts as public spaces on the Tomebamba river.
 
 ### Urban Projects: Design and Visualization
 
